@@ -34,6 +34,26 @@
   font-weight: 300;
   font-style: normal;
 } /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+/* My css */
+
+.Vspace {
+	height: 5%;
+	width: 1%;
+}
+
+.Hspace {
+	height: 1%;
+	width: 5%;
+}
+
+.story--options h3 {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+/* end my css */
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
